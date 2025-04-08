@@ -1,5 +1,3 @@
-# 🚀 Project Name
-
 ![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/username/repo?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/username/repo)
