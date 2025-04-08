@@ -98,7 +98,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmadlazim-03&color=blueviolet" alt="Profile views" />
 </p>
 
 
