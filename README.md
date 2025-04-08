@@ -23,6 +23,10 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cromwell](https://img.shields.io/badge/-Cromwell-734f96?style=flat-square&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-000000?style=flat-square&logo=heidisql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 
 ## 🚀 Featured Projects
 
