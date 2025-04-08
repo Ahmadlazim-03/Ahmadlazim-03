@@ -67,6 +67,46 @@
       </p>
     </td>
   </tr>
+  <tr>
+     <td width="50%">
+      <h3 align="center">Go Orbit</h3>
+      <p align="center">
+        <a href="https://github.com/Ahmadlazim-03/project1" target="_blank">
+          <img src="/placeholder.svg?height=200&width=300" alt="Project 1" height="200"/>
+        </a>
+        <p align="center">
+           Aplikasi by Go-Orbit Company
+        </p>
+        <p align="center">
+          <a href="https://github.com/Ahmadlazim-03/project1" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
+          </a>
+          <a href="https://project1-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-blue?style=flat-square&logo=google-chrome"/>
+          </a>
+        </p>
+      </p>
+    </td>
+   <td width="50%">
+      <h3 align="center">Company Profile - HIMTI</h3>
+      <p align="center">
+        <a href="https://github.com/Ahmadlazim-03/project1" target="_blank">
+          <img src="/placeholder.svg?height=200&width=300" alt="Project 1" height="200"/>
+        </a>
+        <p align="center">
+           Poject Company Profile by WebDev
+        </p>
+        <p align="center">
+          <a href="https://github.com/Ahmadlazim-03/project1" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
+          </a>
+          <a href="https://project1-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-blue?style=flat-square&logo=google-chrome"/>
+          </a>
+        </p>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## 📊 GitHub Stats
