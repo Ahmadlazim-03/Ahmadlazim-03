@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadlazim-03?label=Follow&style=social)](https://github.com/Ahmadlazim-03)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-lazim/)](https://www.linkedin.com/in/ahmad-lazim/)
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com/)](https://yourwebsite.com/)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com/)](https://about-me-ahmad-lazim.vercel.app/)
 
 ## 💻 Technologies & Tools
 
