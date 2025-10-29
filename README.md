@@ -77,8 +77,6 @@
 
 </div>
 
-> 💡 *Untuk mengaktifkan animasi di atas, gunakan [GitHub Action Snake](https://github.com/Platane/snk) di repository Anda.*
-
 ---
 
 ## 📊 GitHub Statistics
@@ -181,4 +179,5 @@
   <br><br>
   ⭐ If you find my work interesting, consider giving it a star! ⭐
 </div>
+
 
