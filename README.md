@@ -7,28 +7,66 @@
 
 ---
 
-## ✨ About Me
+## 🌟 <span style="color:#A78BFA;">About Me</span>
 
+<div align="center">
+  
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
-🎯 Full-Stack Developer passionate about crafting elegant solutions to complex problems  
-💡 Tech Enthusiast exploring AI, open source, and cutting-edge technologies  
-🚀 Code Alchemist transforming ideas into scalable, maintainable applications  
-🌍 Digital Explorer constantly learning and pushing boundaries  
+<h3 align="center">👨‍💻 Who I Am</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
+</p>
+
+<ul>
+  <li>💫 <b>Code Alchemist</b> who turns caffeine into clean, elegant solutions</li>
+  <li>🌍 <b>Digital Explorer</b> on a mission to blend creativity and logic</li>
+  <li>🧠 Always learning — from <b>AI</b> to <b>System Design</b></li>
+  <li>🎯 Building tools that make life easier and tech smarter</li>
+</ul>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-🔧 **Expertise:** Laravel, React, Flutter, Go Fiber  
-🤖 **Interests:** AI/ML, Web3, DevOps  
-📚 **Learning:** Advanced system design, cloud architecture  
-🎨 **Philosophy:** Clean code, user-first design  
+<h3 align="center">🚀 My Tech Universe</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,golang,python,nodejs,tailwind,git,docker,postgresql,mysql" />
+</p>
+
+<p align="center">
+  <b>Expertise:</b> Laravel, React, Flutter, Go Fiber <br>
+  <b>Interests:</b> AI/ML, Web3, Cloud Engineering <br>
+  <b>Philosophy:</b> “Code is poetry written in logic.”  
+</p>
 
 </td>
-</tr>
+  </tr>
 </table>
+
+---
+
+<h3 align="center">🔥 What Defines Me</h3>
+
+<div align="center">
+
+| 💡 Innovation | ⚙️ Clean Architecture | 🎨 User-First Design | 🚀 Continuous Growth |
+|:--------------:|:--------------------:|:-------------------:|:--------------------:|
+| Turning ideas into code that matters | Writing maintainable, modular systems | Building experiences that feel intuitive | Always learning and experimenting |
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Keep+Building...;Keep+Learning...;Keep+Exploring..." alt="Typing SVG" />
+</p>
+
+
+</div>
 
 ---
 
@@ -143,3 +181,4 @@
   <br><br>
   ⭐ If you find my work interesting, consider giving it a star! ⭐
 </div>
+
